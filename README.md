@@ -21,6 +21,7 @@ in it
 ### Prerequisites
 
 Ananconda
+
 Cython
 
 ### Installing
@@ -46,13 +47,14 @@ Jupyter Notebook
 
 ## Run Instruction 
 
-Build C packages, "python setup.py build_ext --inplace
+Build C packages using command - python setup.py build_ext --inplace
 
+Then run - python main.py in anaconda prompt
 
 
 ## Contributing
 
-
+NA
 
 ## Versioning
 
