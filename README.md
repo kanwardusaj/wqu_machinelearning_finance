@@ -44,9 +44,8 @@ Original version 10th September 2019
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+**Kanwar Dusaj** - *Initial work* -
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
